@@ -1,34 +1,73 @@
 <div align="center">
 
-  <!-- BANNER TIPO HERO CON EFECTO MATRIX / CYBERPUNK -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=⚡%20ALJHAIR%20⚡&fontSize=50&fontColor=ffffff&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20DATABASES&descSize=16&descTransform=translate(0,%20-5)" width="100%" alt="Header Aljhair" />
+  <!-- BANNER TIPO TERMINAL CON TEXTO Y DEGRADADO AZUL/OSCURO -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=Aljhair&fontSize=65&fontColor=38bdf8&animation=twinkling&desc=Software%20Developer%20%7C%20Backend%20%26%20Databases&descSize=18&descAlignY=75" width="100%" alt="Header Aljhair" />
 
   <br/>
 
-  <!-- EFECTO DE ESCRITURA DINÁMICA MULTILÍNEA -->
+  <!-- TEXTO EN MOVIMIENTO (TYPING ANIMATION) -->
   <a href="https://github.com/aljhair">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=%3C%2F%3E+Desarrollador+de+Software+Especializado;%F0%9F%A7%A0+Especialista+en+Java+%2B+MySQL+Database;%F0%9F%92%A1+Soluciones+Backend%2C+PHP+%26+Modelos+IA;%F0%9F%9A%80+Construyendo+Sistemas+Escalables" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%26+MySQL+Backend;PHP+%26+Web+Development;Python+%26+AI+Enthusiast" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- BADGES DE NAVEGACIÓN RÁPIDA -->
+  <!-- BADGES DE NAVEGACIÓN COMPACTOS -->
   <p align="center">
-    <a href="https://aljhair.github.io"><img src="https://img.shields.io/badge/🌐_PORTAFOLIO-Visitar_Sitio-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <a href="CV_Aljhair.pdf"><img src="https://img.shields.io/badge/📄_RESUME-Descargar_CV_PDF-238636?style=for-the-badge&logoColor=white" alt="CV" /></a>
-    <img src="https://komarev.com/ghpvc/?username=aljhair&color=00e676&style=for-the-badge&label=VISITAS" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=aljhair&color=00e676&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+    <img src="https://img.shields.io/github/followers/aljhair?style=flat-square&color=21262d&labelColor=161b22&label=Followers" alt="Followers" />
+    <a href="https://aljhair.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="CV_Aljhair.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-238636?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 📌 About Me
 
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  > Ubicación  : Chiclayo, Perú                                           │
-│  > Enfoque    : Arquitectura Backend, Lógica de Negocio y Persistencia   │
-│  > Stack Core : Java, MySQL, PHP, Python, JavaScript, HTML, CSS           │
-│  > Meta       : Crear código limpio, eficiente e integrado con IA       │
-└──────────────────────────────────────────────────────────────────────────┘
+- 💻 **Software Developer** enfocado en el desarrollo backend, arquitectura de software y lógica de negocio.
+- ⚙️ Manejo de tecnologías como **Java**, **PHP**, maquetación e interactividad con **HTML**, **CSS** y **JavaScript**.
+- 🛢️ Gestión y persistencia de bases de datos relacionales con **MySQL**.
+- 🐍 Interesado en el desarrollo con **Python** e integración de modelos de Inteligencia Artificial.
+- 📍 Ubicado en Chiclayo, Perú.
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages & Web**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css" alt="Languages" />
+</p>
+
+#### **Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Databases & Tools" />
+</p>
+
+---
+
+### 📬 Contacto
+
+<p align="left">
+  <a href="https://aljhair.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-aljhair.github.io-00E676?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/aljhair" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-aljhair-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aljhair&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljhair&layout=compact&theme=dark&hide_border=true&title_color=38bdf8" width="48%" alt="Top Languages" />
+</p>
+
+</div>
