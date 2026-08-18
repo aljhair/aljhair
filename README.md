@@ -1,23 +1,21 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel%20Campaña%20Díaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Enthusiast%20-%20Cloud%20and%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0284c7,100:38bdf8&height=220&section=header&text=Aljhair&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20-%20Backend%20Architect%20%26%20Database%20Specialist&descAlignY=58&descSize=18" alt="Header banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=760&lines=Building+robust+and+scalable+backend+systems;Java+%7C+MySQL+%7C+PHP+%7C+Python+%7C+JavaScript;Architecting+database+persistence+%26+logic;Always+learning.+Always+building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Engineering+ideas+into+digital+solutions;Full-Stack+Development+%7C+AI+%7C+Cloud+%7C+Cybersecurity;Building+scalable%2C+modern+and+useful+software;Always+learning.+Always+building." alt="Typing animation" />
 
 <br/><br/>
-
-<a href="https://github.com/aljhair">
-<img src="https://komarev.com/ghpvc/?username=aljhair&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/ChristDani">
+<img src="https://komarev.com/ghpvc/?username=ChristDani&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
 </a>
-<a href="https://github.com/aljhair?tab=followers">
-<img src="https://img.shields.io/github/followers/aljhair?label=Followers&style=for-the-badge&logo=github&color=38bdf8&logoColor=white" alt="GitHub followers"/>
+<a href="https://github.com/ChristDani?tab=followers">
+<img src="https://img.shields.io/github/followers/ChristDani?label=Followers&style=for-the-badge&logo=github&color=36BCF7&logoColor=white" alt="GitHub followers"/>
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Java%20%7C%20Databases-07090e?style=for-the-badge&logoColor=white" alt="Focus badge"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cloud-0f2027?style=for-the-badge&logoColor=white" alt="Focus badge"/>
 </a>
 
-<a href="https://aljhair.github.io" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-0284c7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+<a href="https://christdani.github.io" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-0f2027?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -26,16 +24,489 @@
 
 ## 🧑‍💻 About Me
 
-Soy **Desarrollador de Software** enfocado en la construcción de arquitectura lógica backend, modelado relacional de bases de datos y desarrollo de aplicaciones estructuradas.
+I'm a **Software Engineer** focused on building digital products, scalable applications and modern software architectures.
 
-Mi experiencia abarca desde la **programación orientada a objetos con Java y Python**, hasta el diseño de bases de datos relacionales en **MySQL**, desarrollo web dinámico con **PHP y JavaScript**, e integración de **herramientas de Inteligencia Artificial**.
+My interests and experience span **full-stack development, artificial intelligence, cloud computing, DevOps, cybersecurity, microservices and microfrontends**.
 
-Disfruto transformar requerimientos en código limpio, escalable y con foco en rendimiento.
+I enjoy taking an idea from architecture and development to **deployment, automation and continuous improvement**.
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
-│                      ENGINEERING MINDSET                         │
+│                     ENGINEERING MINDSET                          │
 ├──────────────────────────────────────────────────────────────────┤
-│  💡 Ideas → 🏗️ Architecture → 💻 Development → 🧪 Testing       │
-│             → 🗄️ Relational DB → 🔒 Security → 📈 Scale          │
+│  💡 Ideas → 🏗️ Architecture → 💻 Development → 🧪 Testing      │
+│            → 🚀 CI/CD → ☁️ Cloud → 🔐 Security → 📈 Scale      │
 └──────────────────────────────────────────────────────────────────┘
+```
+
+### 🎯 What I Work With
+
+- 🧩 **Full-Stack Development** — modern web applications and APIs
+- 🤖 **Artificial Intelligence** — AI integrations and intelligent solutions
+- ☁️ **Cloud & Infrastructure** — AWS, Azure and cloud-native deployments
+- 🔐 **Cybersecurity** — security-oriented development and infrastructure
+- 🏗️ **Software Architecture** — Microservices, Microfrontends, Hexagonal, MVC, PWA
+- ⚙️ **DevOps & CI/CD** — Docker, Jenkins, Argo, Pipelines and automated delivery
+- 🗄️ **Databases** — relational and NoSQL systems
+- 🧪 **Testing & Quality** — Jest, engineering best practices, SOLID
+- 🤝 **Agile & Delivery** — Scrum, iterative and collaborative delivery
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,php,html,css,py" alt="Programming languages"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+</p>
+
+**TypeScript · JavaScript · Java · C# · PHP · SQL · HTML5 · CSS3 · Python**
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,vite,webpack,flutter" alt="Frontend technologies"/>
+</p>
+
+**React · Angular · Next.js · Tailwind CSS · Vite · Webpack · Flutter**
+
+---
+
+## ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,java,spring,cs" alt="Backend technologies"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+</p>
+
+**Node.js · NestJS · PHP · Laravel · Java · Spring Boot · C# · Swagger / OpenAPI**
+
+---
+
+## 🗄️ Databases & ORM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sqlite" alt="Databases and ORM"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Prisma · SQL Server · MSSQL**
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,kubernetes,terraform" alt="Cloud and infrastructure"/>
+</p>
+
+**AWS · Azure · Anthos · Docker · Nginx · Kubernetes · Terraform · Coolify**
+
+---
+
+## 🔄 DevOps, CI/CD & Engineering Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,bitbucket,githubactions,npm" alt="DevOps tools"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+</p>
+
+**Git · GitHub · Bitbucket · Jenkins · Argo · Docker · CI/CD · Pipelines · Composer · NPM**
+
+### 🏗️ Architecture
+
+`Microservices` · `Microfrontends` · `REST APIs` · `Cloud Architecture` · `Scalable Systems` · `Hexagonal Architecture` · `MVC` · `PWA` · `SOLID`
+
+### 🤝 Methodologies
+
+`Scrum` · `Agile Delivery` · `Continuous Integration` · `Continuous Delivery`
+
+---
+
+## 🖥️ Operating Systems & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,figma,androidstudio" alt="OS and tools"/>
+</p>
+
+**Linux · Ubuntu · Kali Linux · Figma · Android Studio**
+
+---
+
+## 🤖 AI, Automation & Media Processing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium" alt="AI and automation"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Meta%20AI-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta AI"/>
+  <img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="OpenCode"/>
+</p>
+
+**AI API Integration · Claude · OpenAI · Ollama · Meta AI · OpenCode · Whisper · pydub · FFmpeg · yt-dlp · pytube · Selenium · Python**
+
+> Exploring practical AI integrations, automation workflows, intelligent assistants and data-driven applications.
+
+---
+
+## 🔐 Cybersecurity & Purple Team
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=attack&logoColor=white" alt="MITRE ATT&CK"/>
+  <img src="https://img.shields.io/badge/Purple%20Team-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Purple Team"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-10B981?style=for-the-badge&logo=security&logoColor=white" alt="Threat Hunting"/>
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20EDR-2563EB?style=for-the-badge&logo=security&logoColor=white" alt="SIEM and EDR"/>
+</p>
+
+**Purple Team · Threat Hunting · Detection Engineering · Incident Response · MITRE ATT&CK · Security Testing · SOC Workflow**
+
+> Actualmente estoy en el enfoque de Purple Team: fortaleciendo la colaboración entre ofensiva y defensa para detectar, validar y mejorar continuamente la postura de seguridad de sistemas y aplicaciones.
+
+**Áreas de enfoque:**
+- Evaluación de seguridad y validación de controles.
+- Simulación de ataques con enfoque en detección y respuesta.
+- Diseño y mejora de detecciones basadas en MITRE ATT&CK.
+- Investigación de amenazas, análisis de evidencia y hardening.
+- Seguridad aplicada a entornos empresariales, APIs, infraestructura y aplicaciones web.
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=secretNumber&theme=tokyonight&hide_border=true" alt="Secret Number Game"/>
+</a>
+
+</div>
+
+<!-- > 💡 Reemplaza el repo de ejemplo de arriba con tus proyectos reales (por ejemplo `Mi Restaurante VIP` o `Aether`) usando:
+> `https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true` -->
+> 🎯 Estos proyectos demuestran mi experiencia en desarrollo full-stack, inteligencia artificial, automatización y arquitectura de software escalable. Cada proyecto refleja soluciones innovadoras aplicadas a desafíos empresariales reales, desde juegos interactivos hasta sistemas complejos de integración empresarial. 
+
+---
+
+# 🕓 Professional Timeline
+
+```text
+2022 ─┬─ Graduated in Software Engineering — AI specialization
+      │  └─ Software development, databases, AI & software architecture
+      │
+2023 ─┼─ Started Civil Engineering studies
+      │  └─ Continued professional development in full-stack software engineering
+      |
+      ├─ Joined Valtx — Analyst & Software Developer
+      │  └─ Enterprise software development & system integration
+      │  └─ Banking & financial-sector solutions
+      │     ├─ Scotiabank
+      │     └─ Caja Arequipa
+      │
+2024 ─┼─ Continued enterprise full-stack development
+      │  └─ React, Angular, Node.js, NestJS, PHP, Java, TypeScript & SQL
+      │  └─ APIs, microservices, CI/CD, Docker & cloud technologies
+      │  └─ Software architecture & scalable application development
+      │
+2025 ─┼─ Expanded into Micro Frontends & Microservices
+      │  └─ Designed scalable, modular & distributed application architectures
+      │  └─ Strengthened expertise in enterprise integration, APIs & cloud technologies
+      │
+      ├─ NTT DATA — Centers Developer
+      │  └─ Solutions for Pacífico Seguros
+      │  └─ Angular, enterprise AI integration & modern web technologies
+      |
+      ├─ Zoluxiones — Full-Stack Developer
+      │  └─ Software solutions for Universidad Tecnológica del Perú
+      │  └─ Full-stack development & system integration
+      |
+      ├─ Founded EYTLYR — Technology Consulting & Solutions S.A.C.
+      │  └─ Software development, technology consulting & system integration
+      │  └─ SaaS products, digital transformation & AI solutions
+      │
+2026 ─┴─ Expanding EYTLYR's technology ecosystem
+         ├─ AI-powered automation & intelligent assistants
+         ├─ SaaS ecosystem & digital platforms
+         ├─ Cloud-native architecture & scalable infrastructure
+         ├─ Cybersecurity specialization
+         └─ AWS, Docker, CI/CD, Microservices & AI technologies
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ChristDani">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ChristDani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/ChristDani">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristDani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages"/>
+</a>
+
+<br/><br/>
+<picture>
+
+  <source
+    srcset="https://streak-stats.demolab.com?user=ChristDani&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=ChristDani&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ChristDani&theme=default&hide_border=true"
+    alt="GitHub streak"
+  />
+</picture>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=flat&no-frame=true&row=1&column=7"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=tokyonight&no-frame=true&row=1&column=7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="GitHub trophies"
+  />
+</picture>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=github&hide_border=true&area=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=tokyo-night&hide_border=true&area=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=github&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
+</picture>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# 🧰 My Engineering Toolkit
+
+```yaml
+frontend:
+  - React
+  - Angular
+  - Next.js
+  - Tailwind CSS
+  - Vite
+  - Webpack
+  - Flutter
+
+backend:
+  - Node.js
+  - NestJS
+  - PHP
+  - Laravel
+  - Java
+  - Spring Boot
+  - C#
+
+languages:
+  - TypeScript
+  - JavaScript
+  - Java
+  - C#
+  - PHP
+  - SQL
+  - HTML
+  - CSS
+  - Python
+
+databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+  - Prisma
+  - SQL Server
+  - MSSQL
+  - SQLite
+
+cloud:
+  - AWS
+  - Azure
+  - Anthos
+
+devops:
+  - Docker
+  - Nginx
+  - Jenkins
+  - Argo
+  - Kubernetes
+  - Terraform
+  - Coolify
+  - CI/CD
+  - Pipelines
+  - Composer
+  - NPM
+
+architecture:
+  - Microservices
+  - Microfrontends
+  - REST APIs
+  - Cloud Architecture
+  - Hexagonal Architecture
+  - MVC
+  - PWA
+  - SOLID
+
+methodologies:
+  - Scrum
+  - Agile
+
+testing:
+  - Jest
+
+os_and_tools:
+  - Linux
+  - Ubuntu
+  - Kali Linux
+  - Figma
+  - Android Studio
+
+automation_and_ai:
+  - AI API Integration
+  - Claude
+  - OpenAI
+  - Ollama
+  - Meta AI
+  - OpenCode
+  - Whisper
+  - Selenium
+  - FFmpeg
+  - pydub
+  - yt-dlp
+  - pytube
+```
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+🤖 AI Engineering
+☁️ Cloud-Native Architecture
+🔐 Cybersecurity
+🏗️ Distributed Systems
+⚙️ DevOps & Automation
+📊 Data-Driven Applications
+🧩 Intelligent Developer Tools
+```
+
+---
+
+# 💼 Engineering Philosophy
+
+> **Build software that is useful, scalable, maintainable and secure.**
+
+I believe good engineering is not only about writing code — it's about understanding the problem, designing the right solution, automating what can be automated, securing what matters and continuously improving the product.
+
+---
+
+# 📌 Profile Highlights
+
+<div align="center">
+
+| Area                       | Focus                                                  |
+| -------------------------- | ------------------------------------------------------ |
+| 💻 Software Engineering    | Full-Stack Development                                 |
+| 🤖 Artificial Intelligence | AI Integration & Automation                            |
+| ☁️ Cloud                   | AWS · Azure · Anthos                                   |
+| 🏗️ Architecture            | Microservices · Microfrontends · Hexagonal · MVC · PWA |
+| ⚙️ DevOps                  | Docker · CI/CD · Pipelines · Jenkins · Argo            |
+| 🔐 Security                | Cybersecurity                                          |
+| 🗄️ Data                    | PostgreSQL · MySQL · MongoDB · SQL Server              |
+| 🧪 Quality                 | Jest · SOLID · Engineering Best Practices              |
+| 🤝 Delivery                | Scrum · Agile                                          |
+
+</div>
+
+---
+
+# 🌍 Languages I Speak
+
+<div align="center">
+
+| Language   | Level    |
+| ---------- | -------- |
+| 🇪🇸 Spanish | Native   |
+| 🇬🇧 English | Advanced |
+| 🇫🇷 French  | Basic    |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:CDaniel.22+ghp@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/chrisdaniel2204">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://christdani.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://wa.me/+51955082199">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://t.me/+51955082199">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+</div>
+
+<br/>
