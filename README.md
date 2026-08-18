@@ -1,82 +1,35 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0284c7,100:38bdf8&height=220&section=header&text=Aljhair&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20-%20Backend%20%26%20Database%20Architecture&descAlignY=58&descSize=18" alt="Header banner" />
 
-  <!-- ========================================= -->
-  <!-- BLOQUE 1: HEADER DINÁMICO (MOVIMIENTO)    -->
-  <!-- ========================================= -->
-  <!-- Usamos Capsule Render para un banner animado con olas y efecto de escritura -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Aljhair&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Animado de Aljhair" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=760&lines=Transformando+l%C3%B3gica+compleja+en+software+eficiente;Desarrollo+Backend+%7C+Java+%7C+MySQL+%7C+IA;Dise%C1%B1ando+arquitecturas+limpias+y+persistencia+de+datos;En+constante+aprendizaje+y+evoluci%C3%B3n." alt="Typing animation" />
 
-  <br/>
-
-  <!-- Títulos profesionales con iconos SVG -->
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Software Developer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="35" /> AI & Backend Enthusiast</h2>
-
-  <!-- Badges de contador y redes con movimiento/color -->
-  <p>
-    <!-- Contador de vistas animado -->
-    <img src="https://komarev.com/ghpvc/?username=aljhair&label=PROFILE+VIEWS&color=00e676&style=for-the-badge&logo=github" alt="Views Counter" />
-    <!-- Link a Seguidores con Badge -->
-    <a href="https://github.com/aljhair?tab=followers" target="_blank">
-      <img src="https://img.shields.io/github/followers/aljhair?label=FOLLOWERS&color=333333&style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge" />
-    </a>
-  </p>
+<br/><br/>
+<a href="https://github.com/aljhair">
+<img src="https://komarev.com/ghpvc/?username=aljhair&label=Visitas%20al%20Perfil&color=38bdf8&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/aljhair?tab=followers">
+<img src="https://img.shields.io/github/followers/aljhair?label=Seguidores&style=for-the-badge&logo=github&color=38bdf8&logoColor=white" alt="GitHub followers"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Enfoque-Backend%20%7C%20Java%20%7C%20Databases-07090e?style=for-the-badge&logoColor=white" alt="Focus badge"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ========================================= -->
-<!-- BLOQUE 2: SOBRE MÍ (ESTRUCTURA CLARA)     -->
-<!-- ========================================= -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> Sobre Mí
+## ⚡ Sobre Mí
 
-<!-- Tabla HTML para estructura tipo tarjeta -->
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>💻 Estudiante apasionado por la <b>Ingeniería de Software</b> y la <b>Inteligencia Artificial</b>.</li>
-        <li>⚙️ Enfocado en la construcción de arquitectura <b>Backend</b> robusta, escalable y segura.</li>
-        <li>🛢️ Experiencia trabajando con persistencia de datos, optimización de consultas y lógica de negocio.</li>
-        <li>📚 Aprendiz constante de nuevas tecnologías, patrones de diseño y mejores prácticas de la industria.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Un GIF tecnológico o un Octocat bailando para dar movimiento -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254YmF5Znd5ZXozMzV0ZW5sZXZ5N3dtcnZmeGZqZndyMnY4bnllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Tech GIF" />
-    </td>
-  </tr>
-</table>
+Soy **Desarrollador de Software** enfocado en el diseño de arquitectura lógica backend, estructuración de bases de datos relacionales y creación de sistemas sólidos.
 
----
+Mi experiencia e intereses abarcan desde la **programación orientada a objetos en Java y Python**, hasta la **persistencia transaccional en MySQL**, integración de scripts web con **PHP y JavaScript**, y la exploración de herramientas avanzadas impulsadas por **Inteligencia Artificial**.
 
-<!-- ========================================= -->
-<!-- BLOQUE 3: TECH STACK (BADGES MODERNOS)    -->
-<!-- ========================================= -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tecnologías y Herramientas
-
-<p align="center">
-  <!-- Agrupados por categoría para mejor estructura -->
-  <b>Lenguajes y Backend:</b><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/><br/>
-  <b>Base de Datos y Herramientas:</b><br/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- BLOQUE 4: MINDSET (ASCII/MERMAID CAJA)    -->
-<!-- ========================================= -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Light%20Bulb.png" width="30" /> Mindset de Ingeniería
+Mi objetivo principal es transformar requerimientos operativos en código mantenible, optimizado y altamente funcional.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                            WORKFLOW DE DESARROLLO                           │
-│  💡 Análisis ➔ 🏗️ Arquitectura ➔ 💻 Código Limpio ➔ 🛢️ Persistencia (MySQL)  │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                      FLUJO DE TRABAJO & LÓGICA                   │
+├──────────────────────────────────────────────────────────────────┤
+│  🧠 Análisis → 📐 Diseño SQL → 💻 Desarrollo Backend            │
+│             → 🧪 Pruebas Lógicas → 🛡️ Seguridad → 🚀 Despliegue  │
+└──────────────────────────────────────────────────────────────────┘
