@@ -1,35 +1,23 @@
 <div align="center">
 
-  <!-- ======================================================= -->
-  <!-- BANNER PRINCIPAL CON AZUL DEGRADADO Y ANIMACIÓN        -->
-  <!-- ======================================================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:091e3a,100:203a43&height=220&section=header&text=Aljhair&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20-%20AI%20Enthusiast%20-%20Backend%20%26%20Database&descSize=18&descAlignY=75" width="100%" alt="Header Aljhair" />
+  <!-- ========================================= -->
+  <!-- BLOQUE 1: HEADER DINÁMICO (MOVIMIENTO)    -->
+  <!-- ========================================= -->
+  <!-- Usamos Capsule Render para un banner animado con olas y efecto de escritura -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Aljhair&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Animado de Aljhair" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- ======================================================= -->
-  <!-- TEXTO ANIMADO EN MOVIMIENTO (TYPING ANIMATION / SCROLL)-->
-  <!-- ======================================================= -->
-  <a href="https://github.com/aljhair">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engineering+ideas+into+digital+solutions;Building+scalable+backend+architectures;AI+%26+Database+Enthusiast" alt="Typing Animation" />
-  </a>
+  <!-- Títulos profesionales con iconos SVG -->
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Software Developer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="35" /> AI & Backend Enthusiast</h2>
 
-  <br/><br/>
-
-  <!-- ======================================================= -->
-  <!-- BADGES Y CONTADORES ESTILO PORTFOLIO / METRICAS         -->
-  <!-- ======================================================= -->
+  <!-- Badges de contador y redes con movimiento/color -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aljhair&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge&logo=github" alt="Views" />
+    <!-- Contador de vistas animado -->
+    <img src="https://komarev.com/ghpvc/?username=aljhair&label=PROFILE+VIEWS&color=00e676&style=for-the-badge&logo=github" alt="Views Counter" />
+    <!-- Link a Seguidores con Badge -->
     <a href="https://github.com/aljhair?tab=followers" target="_blank">
-      <img src="https://img.shields.io/github/followers/aljhair?label=FOLLOWERS&color=1E293B&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-    </a>
-    <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%7C%20AI%20%7C%20SQL-38BDF8?style=for-the-badge" alt="Focus" />
-  </p>
-
-  <p>
-    <a href="https://github.com/aljhair" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_WORK-1E293B?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio Link" />
+      <img src="https://img.shields.io/github/followers/aljhair?label=FOLLOWERS&color=333333&style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge" />
     </a>
   </p>
 
@@ -37,16 +25,58 @@
 
 ---
 
-### 👤 About Me
+<!-- ========================================= -->
+<!-- BLOQUE 2: SOBRE MÍ (ESTRUCTURA CLARA)     -->
+<!-- ========================================= -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> Sobre Mí
 
-I'm a **Software Developer** focused on building digital products, scalable applications, and efficient software architectures.
+<!-- Tabla HTML para estructura tipo tarjeta -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>💻 Estudiante apasionado por la <b>Ingeniería de Software</b> y la <b>Inteligencia Artificial</b>.</li>
+        <li>⚙️ Enfocado en la construcción de arquitectura <b>Backend</b> robusta, escalable y segura.</li>
+        <li>🛢️ Experiencia trabajando con persistencia de datos, optimización de consultas y lógica de negocio.</li>
+        <li>📚 Aprendiz constante de nuevas tecnologías, patrones de diseño y mejores prácticas de la industria.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Un GIF tecnológico o un Octocat bailando para dar movimiento -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254YmF5Znd5ZXozMzV0ZW5sZXZ5N3dtcnZmeGZqZndyMnY4bnllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Tech GIF" />
+    </td>
+  </tr>
+</table>
 
-My interests and experience span **Backend Development, Artificial Intelligence, Database Management, DevOps, and Modern Cloud Tech**.
+---
 
-I enjoy taking an idea from architecture and development to deployment, automation, and continuous improvement.
+<!-- ========================================= -->
+<!-- BLOQUE 3: TECH STACK (BADGES MODERNOS)    -->
+<!-- ========================================= -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tecnologías y Herramientas
+
+<p align="center">
+  <!-- Agrupados por categoría para mejor estructura -->
+  <b>Lenguajes y Backend:</b><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/><br/>
+  <b>Base de Datos y Herramientas:</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<!-- ========================================= -->
+<!-- BLOQUE 4: MINDSET (ASCII/MERMAID CAJA)    -->
+<!-- ========================================= -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Light%20Bulb.png" width="30" /> Mindset de Ingeniería
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                            ENGINEERING MINDSET                              │
-│  💡 Ideas ➔ 🏗️ Architecture ➔ 💻 Development ➔ 🧪 Testing ➔ 🛢️ Scale    │
+│                            WORKFLOW DE DESARROLLO                           │
+│  💡 Análisis ➔ 🏗️ Arquitectura ➔ 💻 Código Limpio ➔ 🛢️ Persistencia (MySQL)  │
 └─────────────────────────────────────────────────────────────────────────────┘
