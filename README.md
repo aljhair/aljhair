@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- ==================== BANNER PRINCIPAL ==================== -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Deyvis%20|%20Software%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20PHP%20(MVC)%20%7C%20Python%20%7C%20MySQL%20%7C%20Web%20Development&descAlignY=58&descSize=17" alt="Deyvis Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Deyvis%20|%20Software%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20PHP%20(MVC)%20%7C%20Python%20%7C%20MySQL%20%7C%20Web%20Development&descAlignY=58&descSize=17" alt="Deyvis Header Banner" />
 
   <!-- ==================== ANIMACIÓN DE ESCRITURA DINÁMICA ==================== -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=Desarrollador+de+Software+Junior;PHP+(Patr%C3%B3n+MVC)+%7C+Python+%7C+MySQL;Desarrollo+Web+Frontend+%26+Backend;Control+de+versiones+con+Git+%26+GitHub;Trabajo+en+equipo+bajo+metodolog%C3%ADa+Scrum;Enfocado+en+c%C3%B3digo+limpio+y+aprendizaje+continuo." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=Desarrollador+de+Software;PHP+(Patr%C3%B3n+MVC)+%7C+Python+%7C+MySQL;Desarrollo+Web+Frontend+%26+Backend;Control+de+versiones+con+Git+%26+GitHub;Trabajo+en+equipo+bajo+metodolog%C3%ADa+Scrum;Enfocado+en+c%C3%B3digo+limpio+y+aprendizaje+continuo." alt="Typing animation" />
 
   <br/><br/>
 
@@ -25,26 +25,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <br/><br/>
-
-  <!-- ==================== NAVEGACIÓN RÁPIDA ==================== -->
-  <p>
-    <a href="#-sobre-mí--about-me"><b>Sobre Mí</b></a> •
-    <a href="#-tech-stack--herramientas"><b>Tech Stack</b></a> •
-    <a href="#-arquitectura-bases-de-datos--metodología"><b>Arquitectura & Metodologías</b></a> •
-    <a href="#-proyectos-destacados"><b>Proyectos</b></a> •
-    <a href="#-línea-de-aprendizaje--trayectoria"><b>Trayectoria</b></a> •
-    <a href="#-estadísticas-de-github"><b>Estadísticas</b></a> •
-    <a href="#-contacto"><b>Contacto</b></a>
-  </p>
-
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mí / About Me
 
-¡Hola! Soy **Deyvis**, **Desarrollador de Software Junior** con una sólida formación técnica y experiencia práctica en el desarrollo de aplicaciones web, lógica de programación y bases de datos relacionales.
+¡Hola! Soy **Deyvis**, **Desarrollador de Software** con sólida formación técnica y experiencia práctica en el desarrollo de aplicaciones web, lógica de programación y bases de datos relacionales.
 
 Me especializo en construir soluciones web estructuradas utilizando **PHP bajo el patrón de arquitectura MVC**, conectado a bases de datos **MySQL**, con interfaces dinámicas mediante **HTML5, CSS3 y JavaScript**. Además, utilizo **Python** para el desarrollo de algoritmos, automatización de tareas y manipulación de datos.
 
@@ -172,7 +159,7 @@ Trabajo de forma colaborativa utilizando **Git y GitHub** mediante flujos de tra
    └─ Organización de tareas, estimaciones y entregables por Sprints con Scrum.
 
 🎯 OBJETIVO ACTUAL:
-   └─ Aportar valor como Desarrollador Junior en equipos profesionales, profundizando
+   └─ Aportar valor como Desarrollador de Software en equipos profesionales, profundizando
       en frameworks modernos y creando software útil, escalable y bien documentado.
 ```
 
